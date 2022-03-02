@@ -1,0 +1,7 @@
+D:\Csharp\Tugas_Pertemuan_4\bin\Debug\Tugas_Pertemuan_4.exe
+D:\Csharp\Tugas_Pertemuan_4\bin\Debug\Tugas_Pertemuan_4.pdb
+D:\Csharp\Tugas_Pertemuan_4\obj\Debug\Tugas_Pertemuan_4.csprojResolveAssemblyReference.cache
+D:\Csharp\Tugas_Pertemuan_4\obj\Debug\Tugas_Pertemuan_4.MainForm.resources
+D:\Csharp\Tugas_Pertemuan_4\obj\Debug\Tugas_Pertemuan_4.csproj.GenerateResource.Cache
+D:\Csharp\Tugas_Pertemuan_4\obj\Debug\Tugas_Pertemuan_4.exe
+D:\Csharp\Tugas_Pertemuan_4\obj\Debug\Tugas_Pertemuan_4.pdb

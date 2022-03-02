@@ -1,0 +1,7 @@
+C:\Users\USER\Documents\SharpDevelop Projects\materi_pertemuan_4\bin\Debug\materi_pertemuan_4.exe
+C:\Users\USER\Documents\SharpDevelop Projects\materi_pertemuan_4\bin\Debug\materi_pertemuan_4.pdb
+C:\Users\USER\Documents\SharpDevelop Projects\materi_pertemuan_4\obj\Debug\materi_pertemuan_4.csprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\SharpDevelop Projects\materi_pertemuan_4\obj\Debug\materi_pertemuan_4.MainForm.resources
+C:\Users\USER\Documents\SharpDevelop Projects\materi_pertemuan_4\obj\Debug\materi_pertemuan_4.csproj.GenerateResource.Cache
+C:\Users\USER\Documents\SharpDevelop Projects\materi_pertemuan_4\obj\Debug\materi_pertemuan_4.exe
+C:\Users\USER\Documents\SharpDevelop Projects\materi_pertemuan_4\obj\Debug\materi_pertemuan_4.pdb
